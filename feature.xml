@@ -2,7 +2,7 @@
 <feature
       id="poussecafe.eclipse.feature"
       label="Pousse-Café Plugin"
-      version="0.4.1.202102241419">
+      version="0.4.2.202103021703">
 
    <description url="https://www.pousse-cafe-framework.org/">
       Pousse-Café is a Java framework which enables efficient process
@@ -222,7 +222,7 @@ systems.
          id="poussecafe.eclipse.plugin"
          download-size="0"
          install-size="0"
-         version="0.4.1.202102241414"
+         version="0.4.2.202103021049"
          unpack="false"/>
 
    <plugin
@@ -235,13 +235,13 @@ systems.
          id="poussecafe.core.eclipse.plugin"
          download-size="0"
          install-size="0"
-         version="0.26.0.202101251613"/>
+         version="0.28.0.202103021046"/>
 
    <plugin
          id="poussecafe.source.eclipse.plugin"
          download-size="0"
          install-size="0"
-         version="0.27.0.202102111718"/>
+         version="0.28.0.202103021105"/>
 
    <plugin
          id="pousse-cafe-antlr4-runtime-eclipse-plugin"
@@ -254,17 +254,5 @@ systems.
          download-size="0"
          install-size="0"
          version="0.26.0.202102031108"/>
-
-   <plugin
-         id="poussecafe.spring.jpa.eclipse.plugin"
-         download-size="0"
-         install-size="0"
-         version="0.5.0.202102111719"/>
-
-   <plugin
-         id="poussecafe.spring.mongo.eclipse.plugin"
-         download-size="0"
-         install-size="0"
-         version="0.17.0.202102111719"/>
 
 </feature>
